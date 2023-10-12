@@ -1,9 +1,7 @@
-# React + Vite
+How to run this code
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+step 1. run npm i on terminal
 
-Currently, two official plugins are available:
+step 2. run npm run dev on your terminal
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# flight-search
+*there are limited number of results in this code please look into data and then use search operation..
